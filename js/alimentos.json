@@ -1,0 +1,65 @@
+[                 {"imagen":"images/perroAdulto.jpeg",
+                   "id": 1, 
+                   "nombre": "Alimento perro adulto", 
+                   "precio": 3000},
+                 
+                   {"imagen":"images/perroChico.jpeg",
+                  "id": 2, 
+                  "nombre": "Alimento Perro chico",
+                   "precio": 2600},
+                  
+                   {"imagen":"images/gatoAdulto.jpeg",
+                   "id": 3, 
+                   "nombre": "Alimento gato adulto", 
+                   "precio": 2000},
+                  
+                   {"imagen":"images/gatoChico.jpeg", 
+                  "id": 4, 
+                  "nombre": "Alimento gato chico", 
+                  "precio": 1500},
+                
+                  {"imagen":"images/hamster.jpeg",
+                   "id": 5, 
+                   "nombre": "Alimento hamster", 
+                   "precio": 700},
+                  
+                   {"imagen":"images/aves.jpeg", 
+                  "id": 6, 
+                  "nombre": "Alimento aves", 
+                  "precio": 600},
+                 
+                  {"imagen":"images/conejos.jpeg", 
+                  "id": 7, 
+                  "nombre": "Alimento conejos",
+                   "precio": 750},
+                 
+                 {"imagen":"images/llamas.jpeg",
+                   "id": 8, 
+                   "nombre": "Alimento llamas",
+                    "precio": 800},
+                 
+                    {"imagen":"images/peces.jpeg",
+                  "id": 9, 
+                  "nombre": "Alimento peces",
+                   "precio": 500},
+                  
+                   {"imagen":"images/tortuga.jpeg" ,
+                  "id": 10, 
+                  "nombre": "Alimento tortuga", 
+                  "precio": 600},
+                 
+                  {"imagen":"images/caballo.jpeg",
+                  "id": 11, 
+                  "nombre": "Alimento caballo", 
+                  "precio": 800},
+                 
+                  {"imagen":"images/erizo.jpeg",
+                  "id": 12, 
+                  "nombre": "Alimento erizo",
+                   "precio": 700},
+                 
+                   {"imagen":"images/cerdo.jpeg",
+                  "id": 13,
+                   "nombre": "Alimento cerdo", 
+                  "precio": 850}
+ ]
